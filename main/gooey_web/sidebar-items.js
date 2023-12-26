@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["attach_to_body"],"mod":["utils"],"struct":["WebApp","WebContext","WebWidget"],"trait":["WebTransmogrifier"]};

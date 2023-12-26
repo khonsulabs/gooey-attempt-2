@@ -1,0 +1,4 @@
+(function() {var implementors = {
+"gooey_core":[],
+"gooey_raster":[["impl&lt;Surface&gt; Transmogrify&lt;<a class=\"struct\" href=\"gooey_raster/struct.RasterizedApp.html\" title=\"struct gooey_raster::RasterizedApp\">RasterizedApp</a>&lt;Surface&gt;&gt; for <a class=\"struct\" href=\"gooey_raster/struct.AnyRasterizer.html\" title=\"struct gooey_raster::AnyRasterizer\">AnyRasterizer</a>&lt;Surface&gt;<span class=\"where fmt-newline\">where\n    Surface: <a class=\"trait\" href=\"gooey_raster/trait.Surface.html\" title=\"trait gooey_raster::Surface\">Surface</a>,</span>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
